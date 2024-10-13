@@ -25,3 +25,5 @@ const auth = getAuth(firebaseApp);
 
 // Export database and authentication to use in other parts of your app
 export { db, auth };
+
+
